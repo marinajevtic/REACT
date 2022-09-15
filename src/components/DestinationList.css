@@ -10,7 +10,7 @@
     background: #fff;
     color: #333;
     padding: 20px;
-    border-radius: 4px;
+    border-radius: 15px 50px 30px;
     box-shadow: 3px 3px 3px rgba(0,0,0,0.05);
     transition: all 0.3s ease;
     position: relative;
@@ -35,13 +35,14 @@
     font-size: 0.7em;
     margin: 20px 0;
     line-height: 1.5em;
+    
 }
 
 .destination-list .card a {
-    color: #555;
+    color: rgb(255,255,255);
     text-decoration: none;
     display: block;
-    background: #e2e2e2;
+    background: rgb(247,99,54);
     font-size: 0.9em;
     text-align: center;
     width: 120px;
@@ -50,15 +51,6 @@
     margin: 20px auto 0;
 }
 
-.destination-list .card.dark {
-    background: #555;
-}
-
-.destination-list .card.dark p,
-.destination-list .card.dark h3,
-.destination-list .card.dark div {
-    color: #e4e4e4;
-}
 
 .delete {
     position: absolute;

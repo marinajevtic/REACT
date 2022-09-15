@@ -5,6 +5,13 @@
     background: #fff;
     padding: 40px;
     box-sizing: border-box;
+    border-radius: 15px 50px 30px;
+
+    
+}
+
+.page-title{
+    color: rgb(247,99,54);
 }
 
 .destination ul {
@@ -12,12 +19,13 @@
     padding: 0;
     justify-content: center;
     margin-top: 0;
+    
 }
 
 .destination li {
     list-style-type: none;
     margin-right: 10px;
-    color: #777;
+    color: rgb(179,60,60);
 }
 
 .destination li::after {

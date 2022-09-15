@@ -17,7 +17,7 @@ export default function Search() {
 
   return (
     <div>
-      <h2 className='page-title'>Destinacija u kojoj je "{query}"</h2>
+      <h2 className='page-title'>Tura u kojoj se posećuje "{query}"</h2>
       {error && <p className='error'>{error}</p>}
       {isPending && <p className='loading'>Ucitavanje...</p>}
       {data && <DestinationList destinations={data}/>}
