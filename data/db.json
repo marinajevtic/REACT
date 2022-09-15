@@ -1,0 +1,83 @@
+{
+  "destinations": [
+    {
+      "id": "1",
+      "title": "Pariz",
+      "attractions": [
+        "Ajfelova kula",
+        "Luvr",
+        "Versaj",
+        "Notr Dam",
+        "Monmartr"
+      ],
+      "description": "Pariz – Poznat kao “grad svetlosti”, jedan je od najpoznatijih turističkih centara Evrope, ali i u svetu. Grad ljubavi i romantike, grad umetnika, burnog noćnog života, visoke mode i izuzetne kuhinje nikoga ne ostavlja ravnodušnim.",
+      "duration": "7 dana"
+    },
+    {
+      "id": "2",
+      "title": "Istanbul",
+      "attractions": [
+        "Aja Sofija",
+        "Topkapi palata",
+        "Galata kula",
+        "Kapali čaršija",
+        "Dolmabahče palata"
+      ],
+      "description": "Kroz Istanbul su vekovima prolazile razne civilizacije, nacionalnosti, rase, te ga zato ta njegova raznolikost i uticaji mnogih kultura čine jedinstvenim. Specifično je i to što se prostire na dva kontinenta i na taj način spaja dve civilizacije – Evropu i Aziju.",
+      "duration": "5 dana"
+    },
+    {
+      "id": "3",
+      "title": "Santorini",
+      "attractions": [
+        "Fira",
+        "Oia",
+        "Crvena plaža",
+        "Perissa",
+        "Kamari"
+      ],
+      "description": "Santorini je najslikovitije, najpopularnije i turistički najposećenije grčko ostrvo. Bele fasade, plavi krovovi i stolarija, uz tamne vulkanske stene i plavetnilo Egejskog mora čine tipičan kolorit Santorinija koji svaku fotografiju nominuje za razglednicu godine.",
+      "duration": "10 dana"
+    },
+    {
+      "id": "4",
+      "title": "Barselona",
+      "attractions": [
+        "Sagrada Familija",
+        "Park Guelj",
+        "Plaža Barseloneta",
+        "Pikasov muzej",
+        "Casa Mila"
+      ],
+      "description": "O Barseloni se priča da je čaroban grad i da predstavlja vizuelni užitak i atmosferu koja kombinuje eleganciju i prefinjenost sa katalonskim šarmom. Njene ulice otkrivaju srednjevekovnu romansu u njenom gotskom kvartu a dah zastaje razgledanjem arhitekture Gaudija i njegovih savremenika.",
+      "duration": "6 dana"
+    },
+    {
+      "id": "5",
+      "title": "London",
+      "attractions": [
+        "Big Ben",
+        "Londonsko oko",
+        "Tower bridge",
+        "Britanski muzej",
+        "Vestminsterska palata"
+      ],
+      "description": "Među najlepšim i najvećim gradovima Evope spada glavni grad ne samo Engleske, već čitave Velike Britanije – London. Jedan je od najvećih turističkih, kulturnih i komercijalnih centara na svetu. Grad je mešavina kosmopolitskog i starog nasleđa što možete videti u arhitekturi nekih zgrada.",
+      "duration": "7 dana"
+    },
+    {
+      "id": "6",
+      "title": "Havana",
+      "attractions": [
+        "La Habana Vieja",
+        "Plaza de Armas",
+        "Muzej revolucije",
+        "Catedral de San Cristóbal",
+        "Muzej ruma"
+      ],
+      "description": "Havana je prestonica Kube u kojoj stanuje 2,1 miliona stanovnika, što je čini najnaseljenijim mestom na Karipskim ostrvima. Ulicama krstare oldtajmeri kakvi se ne koriste u zapadnjačkim društvima već decenijama, a arhitektura je mešovita, predstavlja stapanje španske kolonijalističke gradnje, zajedno sa velikim, masivnim građevinama koje su tipične za komunizam. Ovde je veselo i bučno, ali ne i užurbano kao što je to u raznim drugim prestonicama.",
+      "duration": "8 dana"
+    }
+    
+  ]
+}
